@@ -1,0 +1,90 @@
+.name1{
+	padding: 32px 10px;
+	text-align:center;
+}
+
+.pri_btn{
+	color: white;
+    background-color: #0e6df9;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+
+.info_btn{
+	color: black;
+    background-color: #0acbf6;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+
+.sec_btn{
+	color: white;
+    background-color: #6c757e;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+
+.suc_btn{
+	color: white;
+    background-color: #138954;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+
+.dan_btn{
+	color: white;
+    background-color: #db3545;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+.war_btn{
+	color: black;
+    background-color: #ffc302;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+
+.light_btn{
+	color: black;
+    background-color: #fbfbfc;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+
+.dark_btn{
+	color: white;
+    background-color: #202428;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+}
+
+
+.link{
+	border:none;
+	background:none;
+	text-decoration:underline;
+	color:blue;
+	cursor:pointer;
+}
+
+.button{
+	color: black;
+    background-color: #ffc302;
+    border: none;
+    border-radius: 5px;
+	padding: 9px 18px;
+	text-decoration:none;
+	cursor:default;
+}
+	
+.name{
+	padding: 36px 20px;
+}
